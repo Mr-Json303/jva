@@ -1,2 +1,2 @@
-# SkyPack
-minecraft datapack aimed to enhance the skyblock experience
+# Json's Vanilla Addons
+minecraft datapack aimed to enhance the vanilla experience
